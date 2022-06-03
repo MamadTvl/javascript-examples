@@ -1,0 +1,14 @@
+{
+  "name": "js-examples",
+  "version": "1.0.0",
+  "description": "just for fun",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MamadTvl",
+  "license": "ISC"
+}
